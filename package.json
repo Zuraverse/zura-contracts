@@ -1,0 +1,31 @@
+{
+  "name": "zura-contracts",
+  "version": "1.0.0",
+  "description": "Zuraverse contract projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zuraverse/zura-contracts.git"
+  },
+  "author": "@avishkarabhishek786",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zuraverse/zura-contracts/issues"
+  },
+  "homepage": "https://github.com/Zuraverse/zura-contracts#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "dotenv": "^8.6.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.1",
+    "hardhat": "^2.4.1",
+    "prettier": "^2.3.2",
+    "prettier-plugin-solidity": "^1.0.0-beta.13",
+    "standard": "^16.0.3"
+  }
+}
